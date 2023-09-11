@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 Testing... Pending
-=======
 Testing... Done
->>>>>>> 4df1309fcd07b0830ddf3c40f994374e75a40af5
